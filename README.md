@@ -1,2 +1,2 @@
 # C_Language_project
-This is my written by learning concept in C.
+This is my written code by learning concept in C.
